@@ -35,7 +35,7 @@ assetsSummary:
   - OpticalChannel
   - TwoPhotonSeries
   - ImagingPlane
-citation: Martin Haesemeyer (2022) Thermoregulatory Responses Reticulospinal system
+citation: Haesemeyer, Martin (2023) Thermoregulatory Responses Reticulospinal system
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000238/draft
 contributor:
 - awardNumber: 1 R01 NS 123887-01
@@ -46,7 +46,7 @@ contributor:
 - affiliation: []
   email: haesemeyer.1@osu.edu
   includeInCitation: true
-  name: Martin Haesemeyer
+  name: Haesemeyer, Martin
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
