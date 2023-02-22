@@ -2,9 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000238
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.2/context.json
-about:
-- identifier: Zebrafish Hindbrain
-  schemaKey: GenericType
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -62,8 +60,7 @@ dateCreated: '2022-04-16T22:46:04.756411+00:00'
 description: Imaging in the hindbrain and midbrain of nac -/-; Elavl3-H2B:GCaMP6s
   +/- larval zebrafish after reticulospinal backfills with Texas-Red Dextran during
   random wave temperature stimulus presentation
-ethicsApproval:
-- {}
+ethicsApproval: []
 id: DANDI:000238/draft
 identifier: DANDI:000238
 keywords: []
