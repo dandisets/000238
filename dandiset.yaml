@@ -2,7 +2,9 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000238
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.2/context.json
-about: []
+about:
+- identifier: Zebrafish Hindbrain
+  schemaKey: GenericType
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -35,8 +37,8 @@ assetsSummary:
   - OpticalChannel
   - TwoPhotonSeries
   - ImagingPlane
-citation: Haesemeyer, Martin (2023) Thermoregulatory Responses Reticulospinal system
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000238/draft
+citation: Haesemeyer, Martin; Schwinn, Sina (2023) Thermoregulatory Responses Reticulospinal
+  system (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000238/draft
 contributor:
 - awardNumber: 1 R01 NS 123887-01
   name: National Institutes of Health (NIH)
@@ -50,11 +52,18 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Schwinn, Sina
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
 dateCreated: '2022-04-16T22:46:04.756411+00:00'
 description: Imaging in the hindbrain and midbrain of nac -/-; Elavl3-H2B:GCaMP6s
   +/- larval zebrafish after reticulospinal backfills with Texas-Red Dextran during
   random wave temperature stimulus presentation
-ethicsApproval: []
+ethicsApproval:
+- {}
 id: DANDI:000238/draft
 identifier: DANDI:000238
 keywords: []
