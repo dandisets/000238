@@ -41,7 +41,7 @@ assetsSummary:
   - ImagingPlane
   - ProcessingModule
 citation: Haesemeyer, Martin; Schwinn, Sina (2023) Thermoregulatory Responses Reticulospinal
-  system (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000238/draft
+  system (Version 0.230316.1519) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000238/0.230316.1519
 contributor:
 - awardNumber: 1 R01 NS 123887-01
   name: National Institutes of Health (NIH)
@@ -66,14 +66,15 @@ datePublished: '2023-03-16T15:19:35.598196+00:00'
 description: Imaging in the hindbrain and midbrain of nac -/-; Elavl3-H2B:GCaMP6s
   +/- larval zebrafish after reticulospinal backfills with Texas-Red Dextran during
   random wave temperature stimulus presentation
+doi: 10.48324/dandi.000238/0.230316.1519
 ethicsApproval: []
-id: DANDI:000238/draft
+id: DANDI:000238/0.230316.1519
 identifier: DANDI:000238
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000238/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000238/0.230316.1519/assets.yaml
 name: Thermoregulatory Responses Reticulospinal system
 protocol: []
 publishedBy:
@@ -93,6 +94,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000238/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000238/0.230316.1519
+version: 0.230316.1519
 wasGeneratedBy: []
