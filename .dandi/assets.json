@@ -5,7 +5,7 @@
 "blob":
 "a930bb36-4e47-4158-bc61-6d4a8e77ec9b",
 "created":
-"2023-03-16T14:54:15.414964+00:00",
+"2023-03-16T14:54:15.414964Z",
 "metadata":
 {
 "@context":
@@ -247,7 +247,7 @@
 ]
 },
 "modified":
-"2023-03-16T15:19:35.950150+00:00",
+"2023-03-16T15:19:35.950150Z",
 "path":
 "sub-RSpinal-Random-Wave-01/sub-RSpinal-Random-Wave-01_ses-20210724T194543_behavior+ophys.nwb",
 "size":
@@ -259,7 +259,7 @@
 "blob":
 "c4b77296-7bd7-4f62-b8fa-03264faebc45",
 "created":
-"2023-03-16T15:10:32.082219+00:00",
+"2023-03-16T15:10:32.082219Z",
 "metadata":
 {
 "@context":
@@ -501,7 +501,7 @@
 ]
 },
 "modified":
-"2023-03-16T15:19:35.984241+00:00",
+"2023-03-16T15:19:35.984241Z",
 "path":
 "sub-RSpinal-Random-Wave-03/sub-RSpinal-Random-Wave-03_ses-20211007T145521_behavior+ophys.nwb",
 "size":
@@ -513,7 +513,7 @@
 "blob":
 "dbfbadaf-3742-4114-8bd9-65aed49fa41b",
 "created":
-"2023-03-16T15:16:31.571992+00:00",
+"2023-03-16T15:16:31.571992Z",
 "metadata":
 {
 "@context":
@@ -755,7 +755,7 @@
 ]
 },
 "modified":
-"2023-03-16T15:19:36.053267+00:00",
+"2023-03-16T15:19:36.053267Z",
 "path":
 "sub-RSpinal-Random-Wave-04/sub-RSpinal-Random-Wave-04_ses-20211008T101450_behavior+ophys.nwb",
 "size":
@@ -767,7 +767,7 @@
 "blob":
 "f5e7bf9b-dc90-47d9-a9e0-6ffaf40476a9",
 "created":
-"2023-03-16T15:16:32.342064+00:00",
+"2023-03-16T15:16:32.342064Z",
 "metadata":
 {
 "@context":
@@ -1009,7 +1009,7 @@
 ]
 },
 "modified":
-"2023-03-16T15:19:36.033938+00:00",
+"2023-03-16T15:19:36.033938Z",
 "path":
 "sub-RSpinal-Random-Wave-05/sub-RSpinal-Random-Wave-05_ses-20211008T163009_behavior+ophys.nwb",
 "size":
@@ -1021,7 +1021,7 @@
 "blob":
 "1959e952-dfa3-4a14-a0b1-764592281ee9",
 "created":
-"2023-03-16T15:16:31.673290+00:00",
+"2023-03-16T15:16:31.673290Z",
 "metadata":
 {
 "@context":
@@ -1263,7 +1263,7 @@
 ]
 },
 "modified":
-"2023-03-16T15:19:35.997682+00:00",
+"2023-03-16T15:19:35.997682Z",
 "path":
 "sub-RSpinal-Random-Wave-06/sub-RSpinal-Random-Wave-06_ses-20211013T103511_behavior+ophys.nwb",
 "size":
@@ -1275,7 +1275,7 @@
 "blob":
 "e0068396-daa6-41aa-ab5a-ff09df4dff42",
 "created":
-"2023-03-16T15:07:45.931703+00:00",
+"2023-03-16T15:07:45.931703Z",
 "metadata":
 {
 "@context":
@@ -1517,7 +1517,7 @@
 ]
 },
 "modified":
-"2023-03-16T15:19:35.973494+00:00",
+"2023-03-16T15:19:35.973494Z",
 "path":
 "sub-RSpinal-Random-Wave-07/sub-RSpinal-Random-Wave-07_ses-20211028T210141_behavior+ophys.nwb",
 "size":
